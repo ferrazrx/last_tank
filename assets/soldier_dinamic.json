@@ -1,0 +1,255 @@
+{
+	"frames": {
+		"Soldier1_shot_up_1.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_2.png": {
+			"frame": {
+				"x": 140,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_3.png": {
+			"frame": {
+				"x": 280,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_4.png": {
+			"frame": {
+				"x": 420,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_5.png": {
+			"frame": {
+				"x": 560,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_6.png": {
+			"frame": {
+				"x": 700,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_7.png": {
+			"frame": {
+				"x": 840,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_8.png": {
+			"frame": {
+				"x": 980,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_9.png": {
+			"frame": {
+				"x": 1120,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_91.png": {
+			"frame": {
+				"x": 1260,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_92.png": {
+			"frame": {
+				"x": 1400,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		},
+		"Soldier1_shot_up_93.png": {
+			"frame": {
+				"x": 1540,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 140
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1680,
+			"h": 140
+		},
+		"scale": "1"
+	}
+}
